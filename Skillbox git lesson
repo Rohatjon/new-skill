@@ -1,0 +1,4 @@
+a = 5
+b = "I am learing gitHup"
+for i in range(a):
+    print(b)
